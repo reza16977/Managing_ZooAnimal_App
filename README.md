@@ -2,8 +2,6 @@
 
 
 
-<img width="446" alt="image" src="https://github.com/reza16977/Managing_ZooAnimal_App/assets/99034042/2873dfd6-dc8f-49c7-9127-d8903e258fc7">
 
-<img width="442" alt="image" src="https://github.com/reza16977/Managing_ZooAnimal_App/assets/99034042/dd5e7832-edac-42c9-8118-02e4a87752e1">
-
-<img width="442" alt="image" src="https://github.com/reza16977/Managing_ZooAnimal_App/assets/99034042/0ff99a51-e6ca-4e01-b9e5-c51273abece0">
+<img width="439" alt="result" src="https://github.com/reza16977/Managing_ZooAnimal_App/assets/99034042/4c888c8e-ac58-49d2-90c0-c097fdbff466">
+<img width="443" alt="result1" src="https://github.com/reza16977/Managing_ZooAnimal_App/assets/99034042/05194471-e276-458c-ba0b-a3c1f36d3982">
